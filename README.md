@@ -1,6 +1,7 @@
 # ToDo App
 
 追加・完了・削除・保存（localStorage）対応のミニToDoアプリです。
+学習を兼ねてネットで調べながら開発を行ったため、全体の整合性には目をつぶってください。
 
 ## Demo
 https://natokin42-lab.github.io/Todoapp/

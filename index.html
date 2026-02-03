@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ToDo App</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>ToDo</h1>
+        <p style="margin:0 0 16px; color:#6b7280;">追加・完了・削除・保存（localStorage）対応のミニToDoアプリ</p>
+      <form id="todo-form" class="row">
+        <input
+          id="todo-input"
+          type="text"
+          placeholder="やることを入力"
+          autocomplete="off"
+        />
+        <button id="add-btn" type="submit">追加</button>
+      </form>
+
+      <ul id="todo-list" class="list"></ul>
+    </main>
+
+    <script src="./main.js"></script>
+  </body>
+</html>

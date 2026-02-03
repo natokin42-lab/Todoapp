@@ -3,7 +3,7 @@
 追加・完了・削除・保存（localStorage）対応のミニToDoアプリです。
 
 ## Demo
-https://github.com/natokin42-lab/Todoapp
+https://natokin42-lab.github.io/Todoapp/
 
 ## Features
 - タスク追加
